@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-07T19:34:18 IST" name="Suite" finished-at="2024-06-07T19:34:32 IST" duration-ms="13792">
+    <groups>
+    </groups>
+    <test started-at="2024-06-07T19:34:18 IST" name="Test" finished-at="2024-06-07T19:34:32 IST" duration-ms="13792">
+      <class name="com.saucelab.Testcase.RegressionTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.saucelab.Testcase.RegressionTest@1c7696c6]" started-at="2024-06-07T19:34:18 IST" name="setup" finished-at="2024-06-07T19:34:26 IST" duration-ms="8359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginPageFunctionality()[pri:0, instance:com.saucelab.Testcase.RegressionTest@1c7696c6]" started-at="2024-06-07T19:34:27 IST" name="verifyLoginPageFunctionality" finished-at="2024-06-07T19:34:32 IST" duration-ms="5298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageFunctionality -->
+      </class> <!-- com.saucelab.Testcase.RegressionTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
